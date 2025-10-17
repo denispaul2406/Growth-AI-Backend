@@ -1,0 +1,11 @@
+Date,Campaign ID,Ad Set,Amount Spent (INR),Impressions,Link Clicks,Purchases,Conversion Value
+15-Jan-2024,123456,Winter_Sale_TOF,"₹4,500.50","115,000","1,800",35,"₹10,500"
+16-Jan-2024,123456,Winter_Sale_TOF,INR 4800,118000,1850,37,INR 11100
+17-Jan-2024,123456,Winter_Sale_TOF,₹ 4,600 ,116000, ,36,10800
+17-Jan-2024,123456,Winter_Sale_TOF,₹200,2000,50,1,300
+18-Jan-2024,123456,Winter_Sale_TOF,,120000,1900,,11400
+19-Jan-2024,123457,Winter_Sale_TOF,₹5100.00,122000,2000,40,12000
+20-Jan-2024,123457,Branded_Search_Campaign,₹2200,55000,2200,66,26400
+21-Jan-2024,123457,Branded_Search_Campaign,$75,55000,2250,68,27200
+22-Jan-2024,,Branded_Search_Campaign,₹2100,52500,2100,63,25200
+23-Jan-2024,123458,Branded_Search_Campaign,₹2300,57500,2300,69,27600
